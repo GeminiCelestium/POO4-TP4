@@ -12,6 +12,7 @@ builder.Services.AddRazorPages();
 
 builder.Services.AddControllersWithViews().AddControllersAsServices();
 
+builder.Services.AddHttpClient<IGestionFavorisService, GestionFavorisServiceProxy>(client => client.BaseAddress = new Uri(builder.Configuration.GetValue<string>("UrlPostulationsAPI")));
 builder.Services.AddHttpClient<IGestionFavorisService, GestionFavorisServiceProxy>(client => client.BaseAddress = new Uri(builder.Configuration.GetValue<string>("UrlFavorisAPI")));
 builder.Services.AddHttpClient<IGestionEmploisService, GestionEmploisServiceProxy>(client => client.BaseAddress = new Uri(builder.Configuration.GetValue<string>("UrlEmploisAPI")));
 builder.Services.AddHttpClient<IGestionDocumentsService, GestionDocumentsServiceProxy>(client => client.BaseAddress = new Uri(builder.Configuration.GetValue<string>("UrlDocumentsAPI")));

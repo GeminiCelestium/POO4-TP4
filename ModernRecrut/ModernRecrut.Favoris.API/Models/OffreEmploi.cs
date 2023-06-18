@@ -5,8 +5,10 @@ namespace ModernRecrut.Favoris.API.Models
     public class OffreEmploi
     {
         public int Id { get; set; }
+
         [DisplayName("Date d'affichage")]
         public DateTime DateAffichage { get; set; }
+
         [DisplayName("Date de fin")]
         public DateTime DateDeFin { get; set; }
 

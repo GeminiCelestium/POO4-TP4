@@ -1,1 +1,57 @@
-﻿
+﻿@using ModernRecrut.MVC.Models
+@model IEnumerable<ModernRecrut.MVC.Models.Postulation>
+@{
+    ViewData["Title"] = "ListePostulations";
+
+    var liste = new List<Postulation>();
+    liste = Model.ToList();
+}
+
+<h1>Liste des postulations</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdCandidat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OffreDEmploiID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PretentionSalariale)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateDisponibilite)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in liste)
+        {
+            <tr>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdCandidat)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OffreDEmploiID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PretentionSalariale)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateDisponibilite)
+                </td>
+                <td>
+                    @Html.ActionLink("Modifier", "Edit", new { id=item.Id  }) |
+                    @Html.ActionLink("Supression", "Delete", new { id=item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    @Html.ActionLink("Retourner à la liste complète", "Index")
+</p>

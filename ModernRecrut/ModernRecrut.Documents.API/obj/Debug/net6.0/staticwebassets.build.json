@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Di1mslNQNSOqwoqjfiCzyRsu88P5Z3QZEzbMlmcBE+Y=",
+  "Hash": "yTAeEIJSBXwH5rWdpy/qfUfhcvKMfCOLcQ39SdUdF1o=",
   "Source": "ModernRecrut.Documents.API",
   "BasePath": "_content/ModernRecrut.Documents.API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ModernRecrut.Documents.API\\wwwroot",
       "Source": "ModernRecrut.Documents.API",
-      "ContentRoot": "F:\\session 4\\Session 4A\\POO-4\\TP4\\POO4-TP4\\ModernRecrut\\ModernRecrut.Documents.API\\wwwroot\\",
+      "ContentRoot": "E:\\Cours en Ligne\\Hiver 2023\\POO 4\\TxPs\\TP 4\\POO4-TP4\\ModernRecrut\\ModernRecrut.Documents.API\\wwwroot\\",
       "BasePath": "_content/ModernRecrut.Documents.API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\session 4\\Session 4A\\POO-4\\TP4\\POO4-TP4\\ModernRecrut\\ModernRecrut.Documents.API\\wwwroot\\documents\\47e8e1b7-e91a-474b-8a1e-d99563d5e90f_Cv_38468986-b61e-47d6-98af-a3aad73e2efb.docx",
+      "Identity": "E:\\Cours en Ligne\\Hiver 2023\\POO 4\\TxPs\\TP 4\\POO4-TP4\\ModernRecrut\\ModernRecrut.Documents.API\\wwwroot\\documents\\47e8e1b7-e91a-474b-8a1e-d99563d5e90f_Cv_38468986-b61e-47d6-98af-a3aad73e2efb.docx",
       "SourceId": "ModernRecrut.Documents.API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\session 4\\Session 4A\\POO-4\\TP4\\POO4-TP4\\ModernRecrut\\ModernRecrut.Documents.API\\wwwroot\\",
+      "ContentRoot": "E:\\Cours en Ligne\\Hiver 2023\\POO 4\\TxPs\\TP 4\\POO4-TP4\\ModernRecrut\\ModernRecrut.Documents.API\\wwwroot\\",
       "BasePath": "_content/ModernRecrut.Documents.API",
       "RelativePath": "documents/47e8e1b7-e91a-474b-8a1e-d99563d5e90f_Cv_38468986-b61e-47d6-98af-a3aad73e2efb.docx",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\47e8e1b7-e91a-474b-8a1e-d99563d5e90f_Cv_38468986-b61e-47d6-98af-a3aad73e2efb.docx"
     },
     {
-      "Identity": "F:\\session 4\\Session 4A\\POO-4\\TP4\\POO4-TP4\\ModernRecrut\\ModernRecrut.Documents.API\\wwwroot\\documents\\47e8e1b7-e91a-474b-8a1e-d99563d5e90f_Cv_6bc2b89a-d68f-4d14-a8b2-30b203ac5232.PDF",
+      "Identity": "E:\\Cours en Ligne\\Hiver 2023\\POO 4\\TxPs\\TP 4\\POO4-TP4\\ModernRecrut\\ModernRecrut.Documents.API\\wwwroot\\documents\\47e8e1b7-e91a-474b-8a1e-d99563d5e90f_Cv_6bc2b89a-d68f-4d14-a8b2-30b203ac5232.PDF",
       "SourceId": "ModernRecrut.Documents.API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\session 4\\Session 4A\\POO-4\\TP4\\POO4-TP4\\ModernRecrut\\ModernRecrut.Documents.API\\wwwroot\\",
+      "ContentRoot": "E:\\Cours en Ligne\\Hiver 2023\\POO 4\\TxPs\\TP 4\\POO4-TP4\\ModernRecrut\\ModernRecrut.Documents.API\\wwwroot\\",
       "BasePath": "_content/ModernRecrut.Documents.API",
       "RelativePath": "documents/47e8e1b7-e91a-474b-8a1e-d99563d5e90f_Cv_6bc2b89a-d68f-4d14-a8b2-30b203ac5232.PDF",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\documents\\47e8e1b7-e91a-474b-8a1e-d99563d5e90f_Cv_6bc2b89a-d68f-4d14-a8b2-30b203ac5232.PDF"
     },
     {
-      "Identity": "F:\\session 4\\Session 4A\\POO-4\\TP4\\POO4-TP4\\ModernRecrut\\ModernRecrut.Documents.API\\wwwroot\\documents\\47e8e1b7-e91a-474b-8a1e-d99563d5e90f_LettreDeMotivation_48734108-c251-46c3-b64d-5d30b2ab075a.PDF",
+      "Identity": "E:\\Cours en Ligne\\Hiver 2023\\POO 4\\TxPs\\TP 4\\POO4-TP4\\ModernRecrut\\ModernRecrut.Documents.API\\wwwroot\\documents\\47e8e1b7-e91a-474b-8a1e-d99563d5e90f_LettreDeMotivation_48734108-c251-46c3-b64d-5d30b2ab075a.PDF",
       "SourceId": "ModernRecrut.Documents.API",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\session 4\\Session 4A\\POO-4\\TP4\\POO4-TP4\\ModernRecrut\\ModernRecrut.Documents.API\\wwwroot\\",
+      "ContentRoot": "E:\\Cours en Ligne\\Hiver 2023\\POO 4\\TxPs\\TP 4\\POO4-TP4\\ModernRecrut\\ModernRecrut.Documents.API\\wwwroot\\",
       "BasePath": "_content/ModernRecrut.Documents.API",
       "RelativePath": "documents/47e8e1b7-e91a-474b-8a1e-d99563d5e90f_LettreDeMotivation_48734108-c251-46c3-b64d-5d30b2ab075a.PDF",
       "AssetKind": "All",

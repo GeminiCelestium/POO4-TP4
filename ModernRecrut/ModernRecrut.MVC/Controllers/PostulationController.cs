@@ -13,7 +13,7 @@ namespace ModernRecrut.MVC.Controllers
 {
     public class PostulationController : Controller
     {
-
+        public readonly IGestionEmploisService _gestionEmploisService;
         private readonly IGestionEmploisService _gestionEmploisServiceProxy;
         private readonly IGestionDocumentsService _gestionDocumentsServiceProxy;
         private readonly UserManager<ModernRecrutMVCUser> _userManager;
@@ -21,11 +21,13 @@ namespace ModernRecrut.MVC.Controllers
         private readonly IWebHostEnvironment _env; 
 
 
-        public PostulationController(IGestionEmploisService gestionEmploisServiceProxy, IGestionDocumentsService gestionDocumentsServiceProxy, IWebHostEnvironment env)
+        public PostulationController(IGestionEmploisService gestionEmploisService, IGestionEmploisService gestionEmploisServiceProxy, IGestionDocumentsService gestionDocumentsServiceProxy, IWebHostEnvironment env)
         {
+            _gestionEmploisService = gestionEmploisService;
             _gestionEmploisServiceProxy = gestionEmploisServiceProxy;
             _gestionDocumentsServiceProxy = gestionDocumentsServiceProxy;
             _env = env;
+            
         }
 
 
