@@ -6,7 +6,7 @@ using ModernRecrut.MVC.Interfaces;
 using ModernRecrut.MVC.Services;
 
 var builder = WebApplication.CreateBuilder(args);
-// Test commit NJ
+// Test commit NJ // Test Jay
 // Add services to the container.
 builder.Services.AddRazorPages();
 
