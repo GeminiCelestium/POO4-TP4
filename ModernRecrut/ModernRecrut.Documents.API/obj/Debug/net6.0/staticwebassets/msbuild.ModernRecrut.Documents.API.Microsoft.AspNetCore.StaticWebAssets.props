@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\documents\47e8e1b7-e91a-474b-8a1e-d99563d5e90f_Cv_38468986-b61e-47d6-98af-a3aad73e2efb.docx))">
+      <SourceType>Package</SourceType>
+      <SourceId>ModernRecrut.Documents.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ModernRecrut.Documents.API</BasePath>
+      <RelativePath>documents/47e8e1b7-e91a-474b-8a1e-d99563d5e90f_Cv_38468986-b61e-47d6-98af-a3aad73e2efb.docx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\documents\47e8e1b7-e91a-474b-8a1e-d99563d5e90f_Cv_38468986-b61e-47d6-98af-a3aad73e2efb.docx))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\documents\47e8e1b7-e91a-474b-8a1e-d99563d5e90f_Cv_6bc2b89a-d68f-4d14-a8b2-30b203ac5232.PDF))">
+      <SourceType>Package</SourceType>
+      <SourceId>ModernRecrut.Documents.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ModernRecrut.Documents.API</BasePath>
+      <RelativePath>documents/47e8e1b7-e91a-474b-8a1e-d99563d5e90f_Cv_6bc2b89a-d68f-4d14-a8b2-30b203ac5232.PDF</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\documents\47e8e1b7-e91a-474b-8a1e-d99563d5e90f_Cv_6bc2b89a-d68f-4d14-a8b2-30b203ac5232.PDF))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\documents\47e8e1b7-e91a-474b-8a1e-d99563d5e90f_LettreDeMotivation_48734108-c251-46c3-b64d-5d30b2ab075a.PDF))">
+      <SourceType>Package</SourceType>
+      <SourceId>ModernRecrut.Documents.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ModernRecrut.Documents.API</BasePath>
+      <RelativePath>documents/47e8e1b7-e91a-474b-8a1e-d99563d5e90f_LettreDeMotivation_48734108-c251-46c3-b64d-5d30b2ab075a.PDF</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\documents\47e8e1b7-e91a-474b-8a1e-d99563d5e90f_LettreDeMotivation_48734108-c251-46c3-b64d-5d30b2ab075a.PDF))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

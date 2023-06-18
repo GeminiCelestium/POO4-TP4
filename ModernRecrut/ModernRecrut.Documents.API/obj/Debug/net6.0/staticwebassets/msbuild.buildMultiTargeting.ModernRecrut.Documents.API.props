@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ModernRecrut.Documents.API.props" />
+</Project>

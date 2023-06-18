@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ModernRecrut.Emplois.API.props" />
+</Project>
