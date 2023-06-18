@@ -31,3 +31,36 @@ E:\Cours en Ligne\Hiver 2023\POO 4\TxPs\TP 4\POO4-TP4\ModernRecrut\ModernRecrut.
 E:\Cours en Ligne\Hiver 2023\POO 4\TxPs\TP 4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\ModernRecrut.Documents.API.pdb
 E:\Cours en Ligne\Hiver 2023\POO 4\TxPs\TP 4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\ModernRecrut.Documents.API.genruntimeconfig.cache
 E:\Cours en Ligne\Hiver 2023\POO 4\TxPs\TP 4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\ref\ModernRecrut.Documents.API.dll
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\bin\Debug\net6.0\appsettings.Development.json
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\bin\Debug\net6.0\appsettings.json
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\bin\Debug\net6.0\ModernRecrut.Documents.API.staticwebassets.runtime.json
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\bin\Debug\net6.0\ModernRecrut.Documents.API.exe
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\bin\Debug\net6.0\ModernRecrut.Documents.API.deps.json
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\bin\Debug\net6.0\ModernRecrut.Documents.API.runtimeconfig.json
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\bin\Debug\net6.0\ModernRecrut.Documents.API.dll
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\bin\Debug\net6.0\ModernRecrut.Documents.API.pdb
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\ModernRecrut.Documents.API.csproj.AssemblyReference.cache
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\ModernRecrut.Documents.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\ModernRecrut.Documents.API.AssemblyInfoInputs.cache
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\ModernRecrut.Documents.API.AssemblyInfo.cs
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\ModernRecrut.Documents.API.csproj.CoreCompileInputs.cache
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\ModernRecrut.Documents.API.MvcApplicationPartsAssemblyInfo.cs
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\ModernRecrut.Documents.API.MvcApplicationPartsAssemblyInfo.cache
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\staticwebassets\msbuild.ModernRecrut.Documents.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\staticwebassets\msbuild.build.ModernRecrut.Documents.API.props
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ModernRecrut.Documents.API.props
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ModernRecrut.Documents.API.props
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\staticwebassets.pack.json
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\staticwebassets.build.json
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\staticwebassets.development.json
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\scopedcss\bundle\ModernRecrut.Documents.API.styles.css
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\ModernRecrut.Documents.API.csproj.CopyComplete
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\ModernRecrut.Documents.API.dll
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\refint\ModernRecrut.Documents.API.dll
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\ModernRecrut.Documents.API.pdb
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\ModernRecrut.Documents.API.genruntimeconfig.cache
+F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Documents.API\obj\Debug\net6.0\ref\ModernRecrut.Documents.API.dll
