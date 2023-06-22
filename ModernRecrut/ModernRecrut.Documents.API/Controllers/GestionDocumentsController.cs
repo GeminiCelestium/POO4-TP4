@@ -17,6 +17,7 @@ namespace ModernRecrut.Documents.API.Controllers
         {
             _gestionFichiers = gestionFichiers;
         }
+
         // GET: api/<GestionDocumentsController>
         [HttpGet("{id}")]
         public IEnumerable<string> Get(string id)
