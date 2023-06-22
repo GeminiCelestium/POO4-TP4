@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.CodeAnalysis;
 using ModernRecrut.MVC.Areas.Identity.Data;
+using ModernRecrut.MVC.Data;
 using ModernRecrut.MVC.Helpers;
 using ModernRecrut.MVC.Interfaces;
 using ModernRecrut.MVC.Models;
@@ -71,10 +72,10 @@ namespace ModernRecrut.MVC.Controllers
         {
             // TODO : Valider si tout est correct.
 
-            if ()
-            {
+            //if (User.Identity.Name.)
+            //{
 
-            }
+            //}
 
             try
             {
