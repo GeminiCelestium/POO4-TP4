@@ -62,3 +62,35 @@ F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API
 F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\ModernRecrut.Favoris.API.pdb
 F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\ModernRecrut.Favoris.API.genruntimeconfig.cache
 F:\session 4\Session 4A\POO-4\TP4\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\ref\ModernRecrut.Favoris.API.dll
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\bin\Debug\net6.0\appsettings.Development.json
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\bin\Debug\net6.0\appsettings.json
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\bin\Debug\net6.0\ModernRecrut.Favoris.API.exe
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\bin\Debug\net6.0\ModernRecrut.Favoris.API.deps.json
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\bin\Debug\net6.0\ModernRecrut.Favoris.API.runtimeconfig.json
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\bin\Debug\net6.0\ModernRecrut.Favoris.API.dll
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\bin\Debug\net6.0\ModernRecrut.Favoris.API.pdb
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\ModernRecrut.Favoris.API.csproj.AssemblyReference.cache
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\ModernRecrut.Favoris.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\ModernRecrut.Favoris.API.AssemblyInfoInputs.cache
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\ModernRecrut.Favoris.API.AssemblyInfo.cs
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\ModernRecrut.Favoris.API.csproj.CoreCompileInputs.cache
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\ModernRecrut.Favoris.API.MvcApplicationPartsAssemblyInfo.cs
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\ModernRecrut.Favoris.API.MvcApplicationPartsAssemblyInfo.cache
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\staticwebassets\msbuild.ModernRecrut.Favoris.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\staticwebassets\msbuild.build.ModernRecrut.Favoris.API.props
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ModernRecrut.Favoris.API.props
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ModernRecrut.Favoris.API.props
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\staticwebassets.pack.json
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\staticwebassets.build.json
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\staticwebassets.development.json
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\scopedcss\bundle\ModernRecrut.Favoris.API.styles.css
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\ModernRecrut.Favoris.API.csproj.CopyComplete
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\ModernRecrut.Favoris.API.dll
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\refint\ModernRecrut.Favoris.API.dll
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\ModernRecrut.Favoris.API.pdb
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\ModernRecrut.Favoris.API.genruntimeconfig.cache
+F:\session 4\Session 4A\POO-4\TP4 Final\POO4-TP4\ModernRecrut\ModernRecrut.Favoris.API\obj\Debug\net6.0\ref\ModernRecrut.Favoris.API.dll
