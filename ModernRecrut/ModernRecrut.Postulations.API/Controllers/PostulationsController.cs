@@ -86,9 +86,6 @@ namespace ModernRecrut.Postulations.API.Controllers
         [HttpPost]
         public async Task<ActionResult<Postulation>> CreerPostulation (Postulation postulation)
         {
-            if (cand)
-
-
             _context.Postulation.Add(postulation);
             try
             {
