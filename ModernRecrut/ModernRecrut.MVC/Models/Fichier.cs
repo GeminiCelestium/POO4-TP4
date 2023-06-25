@@ -15,6 +15,7 @@ namespace ModernRecrut.MVC.Models
         Diplome
 
     }
+
     public class Fichier
     {
         public string? Id { get; set; }

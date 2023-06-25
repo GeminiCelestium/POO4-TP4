@@ -14,25 +14,23 @@ namespace ModernRecrut.MVC.Controllers
 {
     public class PostulationController : Controller
     {
-        public readonly IGestionEmploisService _gestionEmploisService;
         private readonly IGestionEmploisService _gestionEmploisServiceProxy;
         private readonly IGestionDocumentsService _gestionDocumentsServiceProxy;
         private readonly IGestionPostulationsService _gestionPostulationsServiceProxy;
         private readonly ILogger<OffreEmploisController> _logger;
         private readonly UserManager<ModernRecrutMVCUser> _userManager;
         private readonly RoleManager<IdentityRole> roleManager;
-        private readonly IWebHostEnvironment _env; 
+        private readonly IWebHostEnvironment _env;
 
 
-        public PostulationController(IGestionEmploisService gestionEmploisService, IGestionEmploisService gestionEmploisServiceProxy, IGestionDocumentsService gestionDocumentsServiceProxy, IGestionPostulationsService gestionPostulationsServiceProxy, ILogger<OffreEmploisController> logger, IWebHostEnvironment env)
+        public PostulationController(IGestionEmploisService gestionEmploisServiceProxy, IGestionDocumentsService gestionDocumentsServiceProxy, IGestionPostulationsService gestionPostulationsServiceProxy, ILogger<OffreEmploisController> logger, IWebHostEnvironment env)
         {
-            _gestionEmploisService = gestionEmploisService;
             _gestionEmploisServiceProxy = gestionEmploisServiceProxy;
             _gestionDocumentsServiceProxy = gestionDocumentsServiceProxy;
             _gestionPostulationsServiceProxy = gestionPostulationsServiceProxy;
             _logger = logger;
             _env = env;
-            
+
         }
 
         // GET: PostulationController
@@ -57,7 +55,7 @@ namespace ModernRecrut.MVC.Controllers
         {
             try
             {
-                 return View();     
+                return View();
             }
             catch
             {
@@ -71,6 +69,8 @@ namespace ModernRecrut.MVC.Controllers
         public async Task<ActionResult> Postuler(Postulation postulation)
         {
             // TODO : Valider si tout est correct.
+
+            //User test = new User();
 
             //if (User.Identity.Name.)
             //{
@@ -117,7 +117,12 @@ namespace ModernRecrut.MVC.Controllers
         [ValidateAntiForgeryToken]
         public async Task<ActionResult> Edit(int id, Postulation postulation)
         {
-            try
+            if (id != postulation.Id)
+            {
+                return BadRequest();
+            }
+
+            if (ModelState.IsValid)
             {
                 await _gestionPostulationsServiceProxy.Modifier(postulation);
 
@@ -125,10 +130,9 @@ namespace ModernRecrut.MVC.Controllers
 
                 return RedirectToAction(nameof(Index));
             }
-            catch
-            {
-                return View(postulation);
-            }
+
+            return View(postulation);
+
         }
 
         // GET: PostulationController/Delete/5
